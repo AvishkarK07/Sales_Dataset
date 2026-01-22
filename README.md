@@ -84,6 +84,9 @@ This dataset is provided for **educational and practice purposes only**.
 ## ✨ Author
 Prepared for **data analysis, visualization, and dashboard projects**.
 
+
+# Visuals
+
 <img width="900" height="500" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Sales_Dataset/blob/main/image/1.png" />
 
 <img width="900" height="500" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Sales_Dataset/blob/main/image/2.png" />
@@ -97,6 +100,9 @@ Prepared for **data analysis, visualization, and dashboard projects**.
 <img width="900" height="500" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Sales_Dataset/blob/main/image/6.png" />
 
 <img width="900" height="500" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Sales_Dataset/blob/main/image/7.png" />
+
+
+# Dashboards
 
 <img width="900" height="500" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Sales_Dataset/blob/main/image/8.png" />
 
