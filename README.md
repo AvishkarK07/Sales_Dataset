@@ -86,24 +86,31 @@ Prepared for **data analysis, visualization, and dashboard projects**.
 
 
 # Visuals
-
+<h1>1.Top Selling products</h1>
 <img width="900" height="500" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Sales_Dataset/blob/main/image/1.png" />
 
+<h1>2.Total Sales of Each Category</h1>
 <img width="900" height="500" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Sales_Dataset/blob/main/image/2.png" />
 
+<h1>3.Sum of Product By Region</h1>
 <img width="900" height="500" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Sales_Dataset/blob/main/image/3.png" />
 
+<h1></h1>
 <img width="900" height="500" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Sales_Dataset/blob/main/image/4.png" />
 
+<h1>5.Trend of Quantity & Sales By Month</h1>
 <img width="900" height="500" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Sales_Dataset/blob/main/image/5.png" />
 
+<h1>6.Details of Products</h1>
 <img width="900" height="500" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Sales_Dataset/blob/main/image/6.png" />
 
+<h1>7.Sum Of Profit</h1>
 <img width="900" height="500" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Sales_Dataset/blob/main/image/7.png" />
 
 
 # Dashboards
-
+<h1>Dashboard</h1>
 <img width="900" height="500" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Sales_Dataset/blob/main/image/8.png" />
 
+<h1>Dashboard</h1>
 <img width="900" height="500" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Sales_Dataset/blob/main/image/9.png" />
