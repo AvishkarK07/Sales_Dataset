@@ -2,8 +2,6 @@
 
 <img width="1100" height="500" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Sales_Dataset/blob/main/image/sales.avif" />
 
-# 📊 Dataset README
-
 ## 📌 Overview
 This dataset contains structured records suitable for **data analysis, visualization, and business intelligence projects**.  
 It can be used with tools such as **Tableau, Power BI, Excel, or Python** to explore trends, patterns, and key performance indicators (KPIs).
