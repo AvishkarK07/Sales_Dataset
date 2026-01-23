@@ -1,5 +1,7 @@
 # Sales_Dataset
 
+<img width="1100" height="500" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Sales_Dataset/blob/main/image/sales.avif" />
+
 # 📊 Dataset README
 
 ## 📌 Overview
